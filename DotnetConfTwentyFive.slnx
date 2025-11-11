@@ -2,4 +2,5 @@
   <Project Path="DotnetConfTwentyFive.AppHost/DotnetConfTwentyFive.AppHost.csproj" />
   <Project Path="DotnetConfTwentyFive.ServiceDefaults/DotnetConfTwentyFive.ServiceDefaults.csproj" />
   <Project Path="FirstProject/FirstProject.csproj" />
+  <Project Path="WhatsNew/WhatsNew.csproj" />
 </Solution>
