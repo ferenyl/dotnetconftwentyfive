@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FirstProject\FirstProject.csproj" />
+    <ProjectReference Include="..\McpServer\McpServer.csproj" />
     <ProjectReference Include="..\WhatsNew\WhatsNew.csproj" />
   </ItemGroup>
 

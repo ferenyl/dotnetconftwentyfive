@@ -1,0 +1,11 @@
+# Ensure consistent line endings
+* text=auto eol=lf
+
+# Treat editorconfig as binary by Git (it is text but avoid CRLF issues)
+.editorconfig text
+
+# Auto-detect text files and perform LF normalization
+*.cs text diff=csharp
+*.csproj text
+*.props text
+*.targets text
