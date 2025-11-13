@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/filbased/">
+    <File Path="filebasevspwsh/adduser.cs" />
+    <File Path="filebasevspwsh/adduser.ps1" />
+  </Folder>
+  <Project Path="CliTest/CliTest.csproj" Id="7ca93e9a-8828-44e1-8687-baa7df72d67b" />
   <Project Path="DotnetConfTwentyFive.AppHost/DotnetConfTwentyFive.AppHost.csproj" />
   <Project Path="DotnetConfTwentyFive.ServiceDefaults/DotnetConfTwentyFive.ServiceDefaults.csproj" />
   <Project Path="FirstProject/FirstProject.csproj" />

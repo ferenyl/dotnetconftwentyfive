@@ -1,3 +1,4 @@
+#!/usr/bin/env dotnet
 #:package Microsoft.Data.SqlClient@7.0.0-preview2.25289.6
 #:package System.CommandLine@2.0.0
 using Microsoft.Data.SqlClient;
